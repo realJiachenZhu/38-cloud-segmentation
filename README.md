@@ -1,2 +1,2 @@
 # 38-cloud-segmentation
-Place Holder - The aim of this project is to use CNN to do fish classification. The dataset is from "https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset", named "A Large Scale Fish Dataset". 
+The aim of this project is to UNET and then use UNET to do cloud segmentation in satellite images. The dataset is from "[https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset](https://www.kaggle.com/datasets/sorour/38cloud-cloud-segmentation-in-satellite-images)https://www.kaggle.com/datasets/sorour/38cloud-cloud-segmentation-in-satellite-images", named "38-Cloud: Cloud Segmentation in Satellite Images". 
